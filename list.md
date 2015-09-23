@@ -10,3 +10,6 @@ A visualizer which depicts how intricately each team in a pipeline-driven compan
     - number of distinct data sources used by members of both teams
     - JIRA tickets containing members of multiple teams
     - amount of inter-dependent code (idk how this is possible)
+
+## Chrome Search Expansion
+A chrome extension or add on which searches all your tabs for query text at once i.e. 10 stackoverflow tabs
