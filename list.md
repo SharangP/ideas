@@ -34,3 +34,13 @@ Create virtual monitors and desktops using a VR headset and place them in space/
 
 ## Teeth 2.0
 Coat your teeth with some magical nonstick surface so you no longer need to brush
+
+## Conveying issues by telling stories
+Children learn values and ideas from stories and from the characters in them. Any global issue can be transformed into a story to gain stickyness.
+    - religions convey values through stories
+    - Super Sproutz conveys healthy eating habits by maing strong, sticky characters from healthy foods
+
+## Receipt holder which solicits feedback
+Small lcd screen mounted inside a receipt holder which asks one or two brief questions with 1 to 5 star responses
+    - the world of big data doesn't know exactly what kind of dishes and tastes each indvidual likes yet
+    - by providing specific descriptions of items, we may be able to help customers identify dishes they will enjoy more accurately, feedback is the outcome variable (not tip)
