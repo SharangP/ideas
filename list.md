@@ -47,3 +47,7 @@ Small lcd screen mounted inside a receipt holder which asks one or two brief que
 
 ## Fantasy football for any industry
 Competitive draft style fantasy game for politics, oscars, etc.
+
+## Chip credit cards as identity keys
+Use a cheap chip credit card reader like a 2 factor key... bad idea, interesting problem:
+    - Chip credit cards add security to in person transactions b/c they produce a dynamic key, but this doesn't help online credit card security
