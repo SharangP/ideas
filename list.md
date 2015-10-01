@@ -51,3 +51,6 @@ Competitive draft style fantasy game for politics, oscars, etc.
 ## Chip credit cards as identity keys
 Use a cheap chip credit card reader like a 2 factor key... bad idea, interesting problem:
     - Chip credit cards add security to in person transactions b/c they produce a dynamic key, but this doesn't help online credit card security
+
+## One place for broken phone screens
+The most common phone problems are probably screen breaks, but the advice on what to do is disparate. Consolodate it and SEO the shit out of it
