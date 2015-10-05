@@ -54,3 +54,11 @@ Use a cheap chip credit card reader like a 2 factor key... bad idea, interesting
 
 ## One place for broken phone screens
 The most common phone problems are probably screen breaks, but the advice on what to do is disparate. Consolodate it and SEO the shit out of it
+
+## Pressure Sensor Insoles
+Put pressure sensors in shoe soles to measure when/how people step:
+    - to measure flat footedness
+    - to count steps/measure impact better
+
+## Localized player matching in games
+So many people on the subway, waiting in lobbies, and sitting in public places spend time playing games. Why not build a service which matches players against other players nearby so they can use their interaction in the game to interact in real life.
