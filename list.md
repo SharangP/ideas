@@ -62,3 +62,18 @@ Put pressure sensors in shoe soles to measure when/how people step:
 
 ## Localized player matching in games
 So many people on the subway, waiting in lobbies, and sitting in public places spend time playing games. Why not build a service which matches players against other players nearby so they can use their interaction in the game to interact in real life.
+
+## Better Parental Controls
+Kids have access to the entire internet and parental control tools are easy to bypass and have a lot of false positives. Machine learn / personally approve websites for kids under 10 and provide a hardware firewall to filter based on MAC address so little hacker kids can't circumvent it by looking shit up on google
+
+## Adaptive Road Material
+In subtropical and tropical areas, water permeable concrete is used for roads to keep driving safe in rainy weather. Develop a ridiculously expensive technology to build heated roads for colder climates that can withstand thousands of cold/hot temperature cycles
+
+## Mesh Hotspot Connectivity
+In areas where certain carriers have spotty service, piggyback off of surrounding people's service, jumping through multiple points if necessary. Any overcharging will be covered by the company/users who piggybacked off of your connection
+
+## Hair 2.0
+Replace hair follicles with UFB (universal follicle bus) sockets so you can change your hair color, style, volume, etc at will and with the provided API™
+
+## Look at the shitty thing my kid made
+Takes shitty drawings from 3 year olds and produces 3d printed models for parents to display as art. Life scale models can be built with steel and plated in gold for those parents who really really want to brag about their kids things
