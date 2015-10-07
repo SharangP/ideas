@@ -77,3 +77,7 @@ Replace hair follicles with UFB (universal follicle bus) sockets so you can chan
 
 ## Look at the shitty thing my kid made
 Takes shitty drawings from 3 year olds and produces 3d printed models for parents to display as art. Life scale models can be built with steel and plated in gold for those parents who really really want to brag about their kids things
+
+## Document categorization for feedback systems
+A feedback collector which categorizes documents using NLP, or at least organizes them nicely a la ZenDesk
+    - feedback for politicians doesn't exist afaik
