@@ -86,3 +86,19 @@
 
 - title: Document categorization for feedback systems
   desc: A feedback collector which categorizes documents using NLP, or at least organizes them nicely a la ZenDesk. Feedback for politicians doesn't exist afaik
+
+- title: AWS/Quirky for recipes
+  desc: Write down a recipe and a chef will make it for you
+
+- title: Moisturizing underwear
+  desc: Underwear which secrets a little bit of lotion and keeps your butt nice and soft
+
+- title: Office Olympics
+  desc: Olympics for businesses to compete in
+
+- title: JIRA hooks
+  desc: JIRA is used extensively, but the tool should be smarter and allow deeper integration with teams' workflows
+  details:
+    - suggest retrospectives, mini perf. reviews, and planning optimizations
+    - special tags for manager/report pairing, mentoring, etc
+    - learn a team's estimation and work pattern... and visualize it?
