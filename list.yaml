@@ -128,3 +128,15 @@
 
 - title: Gamify work
   desc: Theme JIRA as a game with levels, prizes, quests, etc. Cuz engineers are nerds
+
+- title: Yelp for kids toys
+  desc: Service to measure how much kids play with their toys and what they learn from them, and posts metrics online for parents. This idea is shit.
+
+- title: AWS for delivery boys in nyc
+  desc: Restaurants may want to respond to a surges in demand by being able to deliver more -> scale up cluster of delivery boys. Surge pricing applies.
+
+- title: Lifestyle data aggregator to qualify for insurance discounts
+  desc: Exercise, eating habits, etc. can lower individuals' health risk, and so should give them insurance discounts. Build an app to help prove it to insurance companies
+
+- title: Analyze code, turn it into diagrams
+  desc: Application with understands dependency structure and call structure of code and can generate flow diagrams for users
