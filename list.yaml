@@ -140,3 +140,23 @@
 
 - title: Analyze code, turn it into diagrams
   desc: Application with understands dependency structure and call structure of code and can generate flow diagrams for users
+
+- title: AWS for food
+  desc: Spin up a chef and use the chef api to make some shit without having to make the shit
+    - then you can get it delivered to you
+    - or you can sell your recipe so others can find a treat as a service (FATAAS)
+
+- title: Uber for X
+  desc: Build a service for people to build their shitty "sharing economy" startups
+    - handle dispatch, location, and logistics for $1k/month
+
+- title: Disrupt the fooken music industry
+  desc: An artist that procedurally generates music tailored to your tastes.
+    - this is a fucking terrible idea.
+
+- title: Charge yer phone from a bike but make it less shitty and less stealable
+  desc: .
+
+- title: Dumbphone app for smartphones
+  desc: Emulate an entire Nokia 4903 os in a smartphone app and lock out all other functionality.
+    - people will buy this shit
