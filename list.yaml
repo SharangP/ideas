@@ -160,3 +160,6 @@
 - title: Dumbphone app for smartphones
   desc: Emulate an entire Nokia 4903 os in a smartphone app and lock out all other functionality.
     - people will buy this shit
+
+- title: SLA monitor
+  desc: Internal and External SLAs exist all over, but its difficult to monitor and track them. Make an app where you can register different types of SLAs and add a web hook to check whether they are actually being kept up
