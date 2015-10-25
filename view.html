@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ name }}</title>
+        <meta name="description" content="">
+    </head>
+    <body>
+        <h1 {% if any_errors %}style="color: red"{% endif %}>{{ name }}</h1>
+        <hr>
+        {% for row, errors in rows %}
+        <div id="idea_{{loop.index0}}">
+            {% if errors %}
+                <h2 style="color: red">{% if row.title %}{{ row.title }}{% else %}NO TITLE{% endif %}</h2>
+                <h4 style="color: red">{% if row.desc %}{{ row.desc }}{% else %}NO DESCRIPTION{% endif %}</h4>
+
+                {% if row.details %}
+                <ul style="color: red">
+                    {% for detail in row.details %}<li>{{ detail }}</li>{% endfor %}
+                </ul>
+                {% endif %}
+
+                <h5 style="color: red">YOU FUCKED UP:</h5>
+                <ul style="color: red">
+                {% for error in errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+                </ul>
+            {% else %}
+                <h2>{{ row.title }}</h2>
+                <h4>{{ row.desc }}</h4>
+                {% if row.details %}
+                <ul>
+                    {% for detail in row.details %}<li>{{ detail }}</li>{% endfor %}
+                </ul>
+                {% endif %}
+            {% endif %}
+        </div>
+        <hr>
+        {% endfor %}
+    </body>
+</html>
