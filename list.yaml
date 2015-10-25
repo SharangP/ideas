@@ -143,6 +143,7 @@
 
 - title: AWS for food
   desc: Spin up a chef and use the chef api to make some shit without having to make the shit
+  details:
     - then you can get it delivered to you
     - or you can sell your recipe so others can find a treat as a service (FATAAS)
 
@@ -159,7 +160,20 @@
 
 - title: Dumbphone app for smartphones
   desc: Emulate an entire Nokia 4903 os in a smartphone app and lock out all other functionality.
+  details:
     - people will buy this shit
 
-- title: SLA monitor
+- title: SLA Monitor
   desc: Internal and External SLAs exist all over, but its difficult to monitor and track them. Make an app where you can register different types of SLAs and add a web hook to check whether they are actually being kept up
+
+- title: Virtual Posters
+  desc: GPS tagged notifications (for utility, not advertisements) instead of posters and signs. Users subscribe to channels like their building or workplace to activate notifications
+
+- title: VR Design Tools
+  desc: Tools for designers to create VR objects, structures, etc easily. Showing customers how an object will look in VR before creating it is going to be the next step of design tools
+
+- title: Silent VR concert
+  desc: Silent concerts are already a thing. Lighting and effects are becoming bigger. VR concerts will allow even more visual stimulation.
+
+- title: Snackroom Monitor
+  desc: Monitoring and alerting for how many pretzels are left in the snack room so you can get them before they are finished.
