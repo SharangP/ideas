@@ -33,20 +33,35 @@ def load_file(path):
 def find_schema_errors(rows):
     def annotate(row):
         errors = []
+        seen = set()
         for field_name, field_type in SCHEMA['required'].iteritems():
             if not isinstance(row.get(field_name), field_type):
                 errors.append({
                     "field_name": field_name,
                     "field_type": field_type,
-                    "value": row.get(field_name)
+                    "value": row.get(field_name),
+                    "message": "This is required"
                 })
+
+            seen.add(field_name)
         for field_name, field_type in SCHEMA['optional'].iteritems():
             if field_name in row and not isinstance(row[field_name], field_type):
                 errors.append({
                     "field_name": field_name,
                     "field_type": field_type,
-                    "value": row[field_name]
+                    "value": row[field_name],
+                    "message": "This is optional"
                 })
+
+            seen.add(field_name)
+
+        other_fields = set(row.keys())- seen
+        for other in other_fields:
+            errors.append({
+                "field_name": other,
+                "value": row[other],
+                "message": "This is not allowed"
+            })
 
         return (row, errors)
 
