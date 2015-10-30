@@ -177,3 +177,12 @@
 
 - title: Snackroom Monitor
   desc: Monitoring and alerting for how many pretzels are left in the snack room so you can get them before they are finished.
+
+- title: Indexed FailHub
+  desc: Github for failed ideas, but well indexed and searchable using NLP
+
+- title: Itemtag Reminders
+  desc: Use iot to alert people when they leave their home without an umbrella on a rainy day
+
+- title: Makeup Snapchat
+  desc: Let people send each other pics of themselves to get advice on their makeup and clothes
