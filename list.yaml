@@ -190,6 +190,13 @@
 - title: Escape the Room
   desc: Have people or admins be able to create rooms that can be solved by people through IRC-like chat
   details:
-    -Make it so that it's necessary for N people to comment in certain ways to solve the room
-    -Make rooms time based so they will come back at certain times or build their own tools to solve rooms
-    -Allow advertisers to build their own rooms and have users solve puzzles based around rooms to get rewards/discounts
+    - Make it so that it's necessary for N people to comment in certain ways to solve the room
+    - Make rooms time based so they will come back at certain times or build their own tools to solve rooms
+    - Allow advertisers to build their own rooms and have users solve puzzles based around rooms to get rewards/discounts
+
+- title: S3 for physical objects
+  desc: People send boxes of stuff to a storage hub in the middle of nowhere, and the service stores it for a low cost until customer wants it back
+  details:
+    - online portal to view stored items
+    - dependant on "network" i.e. shipping being cheap
+
