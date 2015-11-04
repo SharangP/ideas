@@ -16,12 +16,14 @@
                 <h4 style="color: red">{% if row.desc %}{{ row.desc }}{% else %}NO DESCRIPTION{% endif %}</h4>
 
                 {% if row.details %}
+                <h5 style="color: red">Details</h5>
                 <ul style="color: red">
                     {% for detail in row.details %}<li>{{ detail }}</li>{% endfor %}
                 </ul>
                 {% endif %}
 
                 {% if row.comments %}
+                <h5 style="color: red">Comments</h5>
                 <ul style="color: red">
                     {% for comment in row.comments %}<li>{{ comment }}</li>{% endfor %}
                 </ul>
@@ -37,8 +39,16 @@
                 <h2>{{ row.title }}</h2>
                 <h4>{{ row.desc }}</h4>
                 {% if row.details %}
+                <h5>Details</h5>
                 <ul>
                     {% for detail in row.details %}<li>{{ detail }}</li>{% endfor %}
+                </ul>
+                {% endif %}
+
+                {% if row.comments %}
+                <h5>Comments</h5>
+                <ul>
+                    {% for comment in row.comments %}<li>{{ comment }}</li>{% endfor %}
                 </ul>
                 {% endif %}
             {% endif %}
