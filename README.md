@@ -10,6 +10,8 @@ A giant dump of ideas
   details:
     - list item 1
     - list item 2
+  comments:
+    - this is a shitty idea
 - another idea:
   tags: [rick, morty]
   desc: put it wayyy up there
