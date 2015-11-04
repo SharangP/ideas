@@ -15,7 +15,8 @@ SCHEMA = {
         'desc': str
     },
     'optional': {
-        'details': list
+        'details': list,
+        'comments': list
     }
 }
 
