@@ -1,6 +1,6 @@
 - title: Energy Efficiency Toys
   desc: A set of toys for 10 year olds themed around energy efficiency and conservationism. Like Captain Planet but better
-  details:
+  comments:
     - similar... Recycle Hero (phone game which teaches recycling)
 
 - title: Dependency Visualizer
@@ -110,16 +110,19 @@
 
 - title: Advertising is fooken annoying
   desc: Hardware firewall for blocking advertisements
+  details:
     - people will pay $$$ monthly to block all advertisements
     - device can be updated hourly/daily/weekly
 
 - title: Disrupt the millenia old religion industry
   desc: Develop a more betterer religion based on real science with an understanding modern knowledge of theology and psychology
+  details:
     - submit a pr if something is wrong or becomes invalid due to new scientific events
     - fork your own religion while maintaining the same protocol version so people dont start religious wars
 
 - title: KickChild
   desc: Crowdfund a child's future
+  details:
     - fund a child based on their performance to date or based on their ambitions for the future
     - get some return on investment if the child ends up being a competent adult
 
@@ -149,10 +152,12 @@
 
 - title: Uber for X
   desc: Build a service for people to build their shitty "sharing economy" startups
+  details:
     - handle dispatch, location, and logistics for $1k/month
 
 - title: Disrupt the fooken music industry
   desc: An artist that procedurally generates music tailored to your tastes.
+  comments:
     - this is a fucking terrible idea.
 
 - title: Charge yer phone from a bike but make it less shitty and less stealable
@@ -171,12 +176,17 @@
 
 - title: VR Design Tools
   desc: Tools for designers to create VR objects, structures, etc easily. Showing customers how an object will look in VR before creating it is going to be the next step of design tools
+  comments:
+    - Rendering is already a part of the design process, how easy is it to go from a rendered 3d model to whatever VR/AR use to render objects?
 
 - title: Silent VR concert
   desc: Silent concerts are already a thing. Lighting and effects are becoming bigger. VR concerts will allow even more visual stimulation.
 
 - title: Snackroom Monitor
   desc: Monitoring and alerting for how many pretzels are left in the snack room so you can get them before they are finished.
+  comments:
+    - Weight based for pretzels?  Calibrate based on one unit and the weight of the package and report from there.
+    - Basically what the first webcam was used for.
 
 - title: Indexed FailHub
   desc: Github for failed ideas, but well indexed and searchable using NLP
@@ -199,3 +209,10 @@
   details:
     - online portal to view stored items
     - dependant on "network" i.e. shipping being cheap
+
+- title: Buying ad space on people's wardrobes/accessories
+  desc: Companies view your style/most popular locations on a daily basis and can buy a day of your wardrobe
+  details:
+    - Users can specify some sort of dress code so companies can't just send shitty t-shirts
+    - More focused marketing campaign than handing out shirts at events (e.g. hackathons)
+    - People like free clothing/phone cases/everything so they would probably do this for cheap

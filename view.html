@@ -21,6 +21,12 @@
                 </ul>
                 {% endif %}
 
+                {% if row.comments %}
+                <ul style="color: red">
+                    {% for comment in row.comments %}<li>{{ comment }}</li>{% endfor %}
+                </ul>
+                {% endif %}
+
                 <h5 style="color: red">YOU FUCKED UP:</h5>
                 <ul style="color: red">
                 {% for error in errors %}
