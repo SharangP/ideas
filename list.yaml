@@ -224,3 +224,8 @@
 
 - title: QR code clothes
   desc: Allow people to express ideas by putting QR code links to things they like / care about on their clothes
+
+- title: Keep in Touch
+  desc: Tells you to keep in touch with people and reminds you about birthdays in a not shitty way like facebook.
+  details:
+    - watch sms, phone, and messenger activity to determine when you have last talked to a person and get reminders
