@@ -229,3 +229,9 @@
   desc: Tells you to keep in touch with people and reminds you about birthdays in a not shitty way like facebook.
   details:
     - watch sms, phone, and messenger activity to determine when you have last talked to a person and get reminders
+
+- title: Famous people aution thing
+  desc: Connect people who would like to meet celebrities with the celebrities.
+  details:
+    - Auction off the person's time
+    - The majority of the money made goes to the person’s charity of choice
