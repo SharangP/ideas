@@ -235,3 +235,49 @@
   details:
     - Auction off the person's time
     - The majority of the money made goes to the person’s charity of choice
+
+- title: Meet me halfway
+  desc: Find a plae halfway between you and the other pleb
+  details:
+    - thats it
+
+- title: A to B
+  desc: Get me from A to B cheap as possible
+  details:
+    - aggregate results from walking, public transit, taxi, uber, train, flights, etc and find the best one
+
+- title: EC2 for X (user testing, science experiments, socks, tasks, bio)
+  desc: lets you do things cheaply because some other person has taken the upfront cost and enables you to scale fast
+
+- title: Curated X (news, restaurants, travel)
+  desc: For those who are afraid/hate algorithmic recommendations
+  details:
+    - toot yer own horn by saying everything is curated by a real human being
+    - in 2020 that will be unique as fuck
+
+- title: Network for X (cancer support, weight loss, self improvement)
+  desc: build a network around a certain cause
+  details:
+    - since the network is formed around a cause, people are less hesitant to post and consume content compared to a general network like facebook
+
+- title: Slack for Politicians
+  desc: Bring the constituients' voices to the office
+  details:
+    - e.x. Linda Greenstein has a team that manually sifts through printed emails
+    - she samples binders of these printouts to gauge sentiment on issues
+    - aggregate comments and suggestions from email, fb, twitter, mail, etc
+
+- title: Kids build you dumb shit
+  desc: Employ kids to build dumb shit that overfunded startups want
+  details:
+    - kids learn cs/ee from fun/stupid projects which are likely to be better motivators
+    - shitty startups get their shitty toys built (see yo enabled vending machine)
+
+- title: Accelerometer + beat looper DSP swag
+  desc: phone app that lets you jam out with a table or some shit idk
+
+- title: Solar powered water filtration device
+  desc: Useful for people in other countries and backpacking or whatever
+
+- title: Analysis tool for non-profit funding
+  desc: Visualise funding sources for non-profits
