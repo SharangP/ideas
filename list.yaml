@@ -288,9 +288,15 @@
     - Reward people for tagging fat people
     - Reward fat people for running without getting tagged
     - Essentially becomes geocaching with tag/fitness program
-    
+
 - title: Machine/Woodworking Shop as a Service
   desc: Allow shop owners to sell time in their shop w/ rating system for both owners/machinists
-  
+
 - title: Spoiler-free Book Companion
   desc: Wiki for books, but allows user to filter content up to a certain page/chapter to avoid spoilers
+
+- title: Image Crawler
+  desc: Web crawler which maps out how the internet is connected by figuring out which images are common across websites
+
+- title: Gitter for Books
+  desc: Chat room for people interested in / reading books at the same time
