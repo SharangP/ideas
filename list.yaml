@@ -309,3 +309,10 @@
 
 - title: Shitshow
   desc: TV show based on people's love to watch people react to things, show people 4chan-esque stuff and reward them based on how long they watch
+
+- title: Popular Media Checkin Twitter
+  desc: Twitter like app focused on checking in the content (my favorite word) that you've just consumed.
+  details:
+    - Just finished a chapter of a book? Tag it and write a tweet length summary/review.
+    - Just chilled and netflixed? Tag it, rate it, etc.
+    - Reward badges for finishing things.
