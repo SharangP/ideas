@@ -319,3 +319,9 @@
 
 - title: Guitar classes taught by the musicians on the subways
   desc: o_O
+
+- title: Invite-only site
+  desc: Social experiment displaying who invited who using invite codes/gravatar
+
+- title: Change kerning based on sentiment/time
+  desc: Site/jquery plugin/whatever that alters the kerning of paragraphs/words/etc. based on some metric that changes reading experience.
