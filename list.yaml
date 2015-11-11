@@ -325,3 +325,12 @@
 
 - title: Change kerning based on sentiment/time
   desc: Site/jquery plugin/whatever that alters the kerning of paragraphs/words/etc. based on some metric that changes reading experience.
+
+- title: Language Detector
+  desc: Detect what language someone on the subway is speaking and guess what region they are from
+
+- title: Rumba for subway tracks
+  desc: Clean the tracks. Prevent track fires. Reduce subway delays.
+
+- title: Consumer focused group purchasing
+  desc: Use foursquare like social graph of product preference to form group purchasing organizations for any category of goods
