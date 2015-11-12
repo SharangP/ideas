@@ -334,3 +334,11 @@
 
 - title: Consumer focused group purchasing
   desc: Use foursquare like social graph of product preference to form group purchasing organizations for any category of goods
+
+- title: MedCopter
+  desc: Send out a quadcopter equipped with a medical kit for 911 calls
+  details:
+    - Good for remote areas or really fast response times
+    - Equipped with a kit and instructions based on the 911 call details 
+    - Could include things like painkillers, meds, lots of gauze, antivenom, whatever the fuck
+    - Only needs enough stuff and instructions to hold off until the ambulance makes it
