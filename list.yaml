@@ -354,3 +354,9 @@
 
 - title: Facebook Tools to help kids study
   desc: kids use facebook and google drive incessantly for communication and studying, how can we build in tools to help them avoid distractions and improve workflow?
+
+- title: Can We Do a Task?
+  desc: Game (possibly built on something like minecraft) where co-op tasks can be taken on by any number of players.  Times reported by number of players.
+
+- title: Algo/Programming productivity extension
+  desc: Chrome extension that interrupts all browsing until you can complete a programming problem.
