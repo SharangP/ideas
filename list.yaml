@@ -369,3 +369,10 @@
 
 - title: Crowdsourced weather
   desc: Weather stations can tell us what the temperature is outside, but everyone always asks their friends "how cold is it outside" anyway. Humans arebetter at giving relative advice
+
+- title: Bakestagram
+  desc: Baked goods marketplace built around instagram as the catalog of goods
+  details:
+      - Hobby baker makes something and posts it on instagram, local followers can put down a deposit to buy part of the next batch
+      - Local search for bakers near you
+      - "You basically call dibs I guess" ~ Yoon
