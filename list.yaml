@@ -230,16 +230,19 @@
   details:
     - watch sms, phone, and messenger activity to determine when you have last talked to a person and get reminders
 
-- title: Famous people aution thing
+- title: Famous people auction thing
   desc: Connect people who would like to meet celebrities with the celebrities.
   details:
     - Auction off the person's time
     - The majority of the money made goes to the person’s charity of choice
 
 - title: Meet me halfway
-  desc: Find a plae halfway between you and the other pleb
+  desc: Find a place halfway between you and the other pleb
   details:
-    - thats it
+    - 1. Share location with the app
+    - 2. "share" or text link to friend
+    - 3. Friend shares their location with the app or web page
+    - 4. App suggests a coffee shop or restaurant or other venue to meet (can be parametrized)
 
 - title: A to B
   desc: Get me from A to B cheap as possible
