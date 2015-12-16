@@ -393,3 +393,17 @@
 
 - title: Product Tagger
   desc: Have companies pay people to identify their products in instagram, twitter, etc. photos and allow the OPs to link to the product for pay/click.
+
+- title: Safe Space for Ideas
+  desc: Allow people to pitch ideas to small organized meeting groups with all the NDAs and competition abstracted away.
+  details:
+    - Lots of NYC people have ideas but dont know how they would ever implement them
+    - Create a safe space for sharing ideas and getting feedback to motivate them
+    - Pre seed funding?
+
+- title: Annotate the Web
+  desc: Chrome extension to allow comments and highlights on web pages
+  details:
+    - actions are persisted remotely based on web page identifier
+    - allow users to @tag friends and send notifications
+    - more direct form of article sharing e.g. Pocket
