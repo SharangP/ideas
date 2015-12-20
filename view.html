@@ -8,6 +8,8 @@
     </head>
     <body class="container">
         <h1 {% if any_errors %}style="color: red"{% endif %}>{{ name }}</h1>
+        </br>
+        <h4> Good job tools, you made {{ num_items }} ideas</h4>
         <hr>
         {% for row, errors in rows %}
         <div id="idea_{{loop.index0}}">

@@ -83,7 +83,7 @@ def view(list_file):
 
     rows = find_schema_errors(raw_rows)
     any_errors = any(map(lambda row: bool(row[1]), rows))
-    return render_template('view.html', name=list_file, rows=rows, any_errors=any_errors)
+    return render_template('view.html', name=list_file, num_items=len(rows), rows=rows, any_errors=any_errors)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8000)
