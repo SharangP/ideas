@@ -407,3 +407,10 @@
     - actions are persisted remotely based on web page identifier
     - allow users to @tag friends and send notifications
     - more direct form of article sharing e.g. Pocket
+
+- title: Sale manager for craigslist
+  desc: UI on top of craigslist to manage selling items, allow people to send inquiries, bid, etc
+  defails:
+    - selling something on craigslist is a pain in the ass
+    - consolidate disparate communications in one place
+    - get commitment form buyers
