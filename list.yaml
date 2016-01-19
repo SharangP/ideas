@@ -423,3 +423,6 @@
 
 - title: Hop Deodorant
   desc: Hops are already used in deodorant as an antimicrobial.  Use them for aroma as well.
+
+- title: What Should I Brew Next?
+  desc: Machine learning web app that figures out your best beers so far/what works a few weeks in advance to decide what you should brew next.
