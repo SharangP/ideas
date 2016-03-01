@@ -410,7 +410,7 @@
 
 - title: Sale manager for craigslist
   desc: UI on top of craigslist to manage selling items, allow people to send inquiries, bid, etc
-  defails:
+  details:
     - selling something on craigslist is a pain in the ass
     - consolidate disparate communications in one place
     - get commitment form buyers
@@ -426,3 +426,9 @@
 
 - title: What Should I Brew Next?
   desc: Machine learning web app that figures out your best beers so far/what works a few weeks in advance to decide what you should brew next.
+      
+- title: Computer aided estimation
+  desc: In order to help humans make estimates, provide examples or comparison-pairs of sensory options for people to choose from. Do a study to see how well people can estimate with the aid.
+  details:
+    - Estimating number of items by considering images of those items eg 10 vs 1k
+    - Estimate what a face looks like by finding eigenvalues of the face space and showing pairs of linear combinations to humans to help with identification
