@@ -432,3 +432,6 @@
   details:
     - Estimating number of items by considering images of those items eg 10 vs 1k
     - Estimate what a face looks like by finding eigenvalues of the face space and showing pairs of linear combinations to humans to help with identification
+
+- title: Wearable camera that works like an eye
+  desc: Tracks wearer's pupils and focuses on the same location and uses same aperature as wearer's pupils.
