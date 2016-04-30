@@ -444,3 +444,9 @@
 
 - title: Promise Racer ELB
   desc: Middleman server that pings all urls for that ID and redirects the user to whichever url wins the Promise.race
+
+- title: Instagram brand rewards
+  desc: Registered instagram accounts transparently get kickbacks from companies for posting images of brands. Use ML to detect brands
+
+- title: Unstructured document indexing as a service
+  desc: Upload scanned docs / pdfs to the service. Service performs OCR and indexes them. Provides a search interface.
