@@ -452,7 +452,7 @@
   desc: Upload scanned docs / pdfs to the service. Service performs OCR and indexes them. Provides a search interface.
 
 - title: Github repository recommendations
-  desc: Often you are looking at libraries or packages for a specific purpose on Github, but there is no way to see what ohter packages exist for similar functions. Google does this, but having an interface within github would be better.
+  desc: Often you are looking at libraries or packages for a specific purpose on Github, but there is no way to see what other packages exist for similar functions. Google does this, but having an interface within github would be better.
 
 - title: Macbook Power Block
   desc: Big power adapter that has a bunch of ports for charging macbooks.  Avoids taking up too many power outlets.  Only have to carry a cable to work.
