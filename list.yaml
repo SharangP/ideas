@@ -465,3 +465,6 @@
 
 - title: Ad-targeting but for recruiters to find prospects
   desc: Buy a bunch of data and predict how good people are at various jobs, and then whether they are likely to be ready to leave and join another company
+
+- title: Toasters as a Service
+  desc: Web scale toaster service.  Support CLI that allows users to auto-scale number of needed toast capacity.
