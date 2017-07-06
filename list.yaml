@@ -468,3 +468,9 @@
 
 - title: Toasters as a Service
   desc: Web scale toaster service.  Support CLI that allows users to auto-scale number of needed toast capacity.
+
+- title: Getaround for apartment rentals
+  desc: In the age of the internet, brokers are useless and are basically robbing people of 12-15% of rent. If we created a mechanism to book apartments for viewing and unlock the doors via an app (like getaround does with cars), then we could undercut brokers significantly and allow people to see apartments and rent them for cheaper (charge 5% fee instead of 12%).
+
+- title: barkbox for cats, but its just a box
+  desc: kitnipbox already exists, but instead of shipping a bunch of actual cat stuff, we just ship a box to you every 2 weeks for a subscription fee.
