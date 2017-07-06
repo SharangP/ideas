@@ -474,3 +474,10 @@
 
 - title: barkbox for cats, but its just a box
   desc: kitnipbox already exists, but instead of shipping a bunch of actual cat stuff, we just ship a box to you every 2 weeks for a subscription fee.
+
+- title: bars
+  desc: App that lets you search for specific rap verses with timestamps.
+  details:
+    - Could search by lyrics, artist, or song title
+    - Have link to spotify web player to play song from the timestamp where the verse starts
+    - Figure out ways to break Spotify's TOS
