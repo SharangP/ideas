@@ -490,3 +490,6 @@
 
 - title: Retail Arbitrage Analytics (for reatilers)
   desc: According to the planet money podcast, there is a big industry buying goods in a retail store and selling them online for a profit. This business is mostly done by individuals exploiting a gap in prices or supply that the market cannot adjust for. If there were an easy way for a retailer manager to walk down the isle and see how much each item is selling for online vs in the store, they may be able to recuperate some of these lost profits.
+
+- title: Instant cost estimation for treatment
+  desc: It is annoying that providers can't give instant estimates for how much a treatment will cost. This is partially because their estimate depends on how much an insurance will cover. Build an API for providers to instantly compare their estiamtes with provider's coverage estimates so patients can make better decisions about treatment.
