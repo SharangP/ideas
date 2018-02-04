@@ -493,3 +493,6 @@
 
 - title: Instant cost estimation for treatment
   desc: It is annoying that providers can't give instant estimates for how much a treatment will cost. This is partially because their estimate depends on how much an insurance will cover. Build an API for providers to instantly compare their estiamtes with provider's coverage estimates so patients can make better decisions about treatment.
+
+- title: Clothing brand recommender
+  desc: Problem: how to discover new clothing brands? Solution: recommend clothing brands based on the graph of what people like. How to get this without financial information...?
