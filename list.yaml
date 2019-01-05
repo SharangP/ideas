@@ -209,6 +209,8 @@
   details:
     - online portal to view stored items
     - dependant on "network" i.e. shipping being cheap
+  comments:
+    - Omni does this - https://www.beomni.com/
 
 - title: Buying ad space on people's wardrobes/accessories
   desc: Companies view your style/most popular locations on a daily basis and can buy a day of your wardrobe
@@ -495,4 +497,15 @@
   desc: It is annoying that providers can't give instant estimates for how much a treatment will cost. This is partially because their estimate depends on how much an insurance will cover. Build an API for providers to instantly compare their estiamtes with provider's coverage estimates so patients can make better decisions about treatment.
 
 - title: Clothing brand recommender
-  desc: Problem: how to discover new clothing brands? Solution: recommend clothing brands based on the graph of what people like. How to get this without financial information...?
+  desc: Recommend clothing brands based on the graph of what people like.
+  details:
+    - How to get this without financial information...?
+
+- title: Infinite chapstick
+  desc: It'll never run out, but you still have to make sure you don't lose it
+
+- title: Bullshit excuse generator
+  desc: For when you need an excuse to flake on someone or something
+  details:
+    - "\"The landlord's coming over to check out that black mold in the kitchen\""
+    - "\"My dog has the shits so I gotta stay home and take care of him\""
