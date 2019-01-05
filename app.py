@@ -1,13 +1,8 @@
 #!/usr/bin/env python
 
-import os
-import sys
-import json
 import yaml
-import datetime
-import decimal
 
-from flask import Flask, render_template, redirect, request, url_for
+from flask import Flask, render_template, redirect, url_for
 
 SCHEMA = {
     'required': {
@@ -56,7 +51,7 @@ def find_schema_errors(rows):
 
             seen.add(field_name)
 
-        other_fields = set(row.keys())- seen
+        other_fields = set(row.keys()) - seen
         for other in other_fields:
             errors.append({
                 "field_name": other,
