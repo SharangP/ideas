@@ -30,7 +30,7 @@ def find_schema_errors(rows):
     def annotate(row):
         errors = []
         seen = set()
-        for field_name, field_type in SCHEMA['required'].iteritems():
+        for field_name, field_type in SCHEMA['required'].items():
             if not isinstance(row.get(field_name), field_type):
                 errors.append({
                     "field_name": field_name,
@@ -40,7 +40,7 @@ def find_schema_errors(rows):
                 })
 
             seen.add(field_name)
-        for field_name, field_type in SCHEMA['optional'].iteritems():
+        for field_name, field_type in SCHEMA['optional'].items():
             if field_name in row and not isinstance(row[field_name], field_type):
                 errors.append({
                     "field_name": field_name,
@@ -61,7 +61,7 @@ def find_schema_errors(rows):
 
         return (row, errors)
 
-    return map(annotate, rows)
+    return list(map(annotate, rows))
 
 def save_the_shit():
     pass
