@@ -293,10 +293,10 @@
     - Reward people for tagging fat people
     - Reward fat people for running without getting tagged
     - Essentially becomes geocaching with tag/fitness program
-    
+
 - title: Machine/Woodworking Shop as a Service
   desc: Allow shop owners to sell time in their shop w/ rating system for both owners/machinists
-  
+
 - title: Spoiler-free Book Companion
   desc: Wiki for books, but allows user to filter content up to a certain page/chapter to avoid spoilers
 
@@ -344,7 +344,7 @@
   desc: Send out a quadcopter equipped with a medical kit for 911 calls
   details:
     - Good for remote areas or really fast response times
-    - Equipped with a kit and instructions based on the 911 call details 
+    - Equipped with a kit and instructions based on the 911 call details
     - Could include things like painkillers, meds, lots of gauze, antivenom, whatever the fuck
     - Only needs enough stuff and instructions to hold off until the ambulance makes it
 
@@ -416,7 +416,7 @@
     - selling something on craigslist is a pain in the ass
     - consolidate disparate communications in one place
     - get commitment form buyers
-       
+
 - title: Tablet app to fill doctor forms
   desc: Maybe have people use a stylus so they dont get each other sick.
 
@@ -428,7 +428,7 @@
 
 - title: What Should I Brew Next?
   desc: Machine learning web app that figures out your best beers so far/what works a few weeks in advance to decide what you should brew next.
-      
+
 - title: Computer aided estimation
   desc: In order to help humans make estimates, provide examples or comparison-pairs of sensory options for people to choose from. Do a study to see how well people can estimate with the aid.
   details:
@@ -509,3 +509,8 @@
   details:
     - "\"The landlord's coming over to check out that black mold in the kitchen\""
     - "\"My dog has the shits so I gotta stay home and take care of him\""
+
+- title: Note taking app for people with short attention spans
+  desc: quick place to dump notes that also reminds you to organize new notes daily/weekly so you don't have a bunch of stream of consciousness garbage that isn't usable or searchable
+  details:
+    - this is basically GTD but without the cult
